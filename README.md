@@ -8,7 +8,7 @@ Virtual Art Gallery a space to explore art in 3D Virtual immersive environment U
 - [Tools & Technologies](#Tools&Technologies)
 - [Features](#Features)
 - [Implementation Details](#ImplementationDetails)
-- [Screenshots/Workflow](#Screenshots/Workflow)
+- [Screenshots/Workflow](#ScreenshotsandWorkflow)
 - [Challenges & Learnings](#Challenges&Learnings)
 - [Conclusion](#Conclusion)
 
@@ -55,10 +55,15 @@ In this project, I created a virtual art gallery website that allows users to ex
 ### Workflow:
 ![](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/24d4a947d0f76dacd63154d3afc349a9019d3a13/WorkFlow.jpg)
 ### Index Page:
-![]()
+![](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/0b9c2efb198458f9008e201487cc8f6885f68434/Index-page.jpg)
 ### About Page:
-![]()
+![](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/0b9c2efb198458f9008e201487cc8f6885f68434/About-page.jpg)
 ### 3D Gallery Page:
-![]()
+![](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/0b9c2efb198458f9008e201487cc8f6885f68434/art-Gallery-page.jpg)
 ### Popup Page:
-![]()
+![](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/0b9c2efb198458f9008e201487cc8f6885f68434/Popup-page.jpg)
+
+##Conclusion 
+The Virtual Art Gallery successfully demonstrates a unique way to 
+explore artwork online. Future iterations could include features like VR 
+integration, artwork search, or an artist submission portal.
