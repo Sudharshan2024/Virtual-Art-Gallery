@@ -3,14 +3,14 @@ Virtual Art Gallery a space to explore art in 3D Virtual immersive environment U
 
 ## Table of Contents
 
--[Introduction](#Introduction)
--[Objective](#Objective)
--[Tools & Technologies](#Tools&Technologies)
--[Features](#Features)
--[Implementation Details](#ImplementationDetails)
--[Screenshots/Workflow](#Screenshots/Workflow)
--[Challenges & Learnings](#Challenges&Learnings)
--[Conclusion](#Conclusion)
+- [Introduction](#Introduction)
+- [Objective](#Objective)
+- [Tools & Technologies](#Tools&Technologies)
+- [Features](#Features)
+- [Implementation Details](#ImplementationDetails)
+- [Screenshots/Workflow](#Screenshots/Workflow)
+- [Challenges & Learnings](#Challenges&Learnings)
+- [Conclusion](#Conclusion)
 
 ## Introduction
 In this project, I created a virtual art gallery website that allows users to explore and interact with artworks in a virtual environment. This project will combine My skills in HTML, CSS, and JavaScript to provide an responsive art experience.
