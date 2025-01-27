@@ -53,4 +53,12 @@ In this project, I created a virtual art gallery website that allows users to ex
 
 ## Screenshots and Workflow
 ### Workflow:
--[](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/24d4a947d0f76dacd63154d3afc349a9019d3a13/WorkFlow.jpg)
+![](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/24d4a947d0f76dacd63154d3afc349a9019d3a13/WorkFlow.jpg)
+### Index Page:
+![]()
+### About Page:
+![]()
+### 3D Gallery Page:
+![]()
+### Popup Page:
+![]()
