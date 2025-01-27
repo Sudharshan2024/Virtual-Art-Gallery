@@ -2,13 +2,14 @@
 #Virtual Art Gallery a space to explore art in 3D Virtual immersive environment Using HTML, CSS and JavaScript
 
 ##Table of Contents
+
 -[Introduction](#Introduction)
 -[Objective](#Objective)
--[Tools & Technologies](#Tools & Technologies)
+-[Tools & Technologies](#Tools&Technologies)
 -[Features](#Features)
--[Implementation Details](#Implementation Details)
+-[Implementation Details](#ImplementationDetails)
 -[Screenshots/Workflow](#Screenshots/Workflow)
--[Challenges & Learnings](#Challenges & Learnings)
+-[Challenges & Learnings](#Challenges&Learnings)
 -[Conclusion](#Conclusion)
 
 ##Introduction
