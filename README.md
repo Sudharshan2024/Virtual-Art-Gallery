@@ -16,10 +16,10 @@ Virtual Art Gallery a space to explore art in 3D Virtual immersive environment U
 In this project, I created a virtual art gallery website that allows users to explore and interact with artworks in a virtual environment. This project will combine My skills in HTML, CSS, and JavaScript to provide an responsive art experience.
 
 ## Objective
-  •	Develop a web-based virtual art gallery with interactive 3D-like navigation. 
-  •	Utilize HTML for content structure and 2D layout.
-  •	Apply CSS for styling and creating a visually appealing gallery.
-  •	Use JavaScript for interactivity and navigation.
+  - •	Develop a web-based virtual art gallery with interactive 3D-like navigation. 
+  - •	Utilize HTML for content structure and 2D layout.
+  - •	Apply CSS for styling and creating a visually appealing gallery.
+  - •	Use JavaScript for interactivity and navigation.
 
 ## Tools & Technologies
 ###•	HTML
