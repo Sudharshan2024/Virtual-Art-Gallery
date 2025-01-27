@@ -52,5 +52,5 @@ CSS Styling
 ###•	I used JavaScript for zooming in on artworks and information pop-ups, when it is clicked.
 
 ## Screenshots and Workflow
-##Workflow:
--[image alt]()
+### Workflow:
+-[image alt](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/24d4a947d0f76dacd63154d3afc349a9019d3a13/WorkFlow.jpg)
