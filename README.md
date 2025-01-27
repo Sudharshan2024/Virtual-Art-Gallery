@@ -63,7 +63,7 @@ In this project, I created a virtual art gallery website that allows users to ex
 ### Popup Page:
 ![](https://github.com/Sudharshan2024/Virtual-Art-Gallery/blob/0b9c2efb198458f9008e201487cc8f6885f68434/Popup-page.jpg)
 
-##Conclusion 
+## Conclusion 
 The Virtual Art Gallery successfully demonstrates a unique way to 
 explore artwork online. Future iterations could include features like VR 
 integration, artwork search, or an artist submission portal.
