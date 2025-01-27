@@ -1,7 +1,7 @@
 # Virtual-Art-Gallery
-#Virtual Art Gallery a space to explore art in 3D Virtual immersive environment Using HTML, CSS and JavaScript
+Virtual Art Gallery a space to explore art in 3D Virtual immersive environment Using HTML, CSS and JavaScript
 
-##Table of Contents
+## Table of Contents
 
 -[Introduction](#Introduction)
 -[Objective](#Objective)
@@ -12,28 +12,28 @@
 -[Challenges & Learnings](#Challenges&Learnings)
 -[Conclusion](#Conclusion)
 
-##Introduction
-###In this project, I created a virtual art gallery website that allows users to explore and interact with artworks in a virtual environment. This project will combine My skills in HTML, CSS, and JavaScript to provide an responsive art experience.
+## Introduction
+In this project, I created a virtual art gallery website that allows users to explore and interact with artworks in a virtual environment. This project will combine My skills in HTML, CSS, and JavaScript to provide an responsive art experience.
 
-##Objective
-  ###•	Develop a web-based virtual art gallery with interactive 3D-like navigation. 
-  ###•	Utilize HTML for content structure and 2D layout.
-  ###•	Apply CSS for styling and creating a visually appealing gallery.
-  ###•	Use JavaScript for interactivity and navigation.
+## Objective
+  •	Develop a web-based virtual art gallery with interactive 3D-like navigation. 
+  •	Utilize HTML for content structure and 2D layout.
+  •	Apply CSS for styling and creating a visually appealing gallery.
+  •	Use JavaScript for interactivity and navigation.
 
-##Tools & Technologies
+## Tools & Technologies
 ###•	HTML
 ###•	CSS
 ###•	JavaScript
 ###•	Visual Studio Code
 
-##Features
+## Features
 ###•	Interactive 3D gallery with a first-person perspective.
 ###•	Smooth navigation using keyboard or mouse controls.
 ###•	Artwork displayed as framed images on walls.
 ###•	 Responsive design for multiple devices.
 
-##Implementation Details
+## Implementation Details
 ##Artwork
 ###•	I Choose modern art as my theme.
 ###•	I collected the artwork images related to my theme and store it in folder.
@@ -51,6 +51,6 @@ CSS Styling
 ###•	I used EventListener to set the keyboard arrows to navigate the perspective
 ###•	I used JavaScript for zooming in on artworks and information pop-ups, when it is clicked.
 
-##Screenshots and Workflow
+## Screenshots and Workflow
 ##Workflow:
 -[image alt]()
