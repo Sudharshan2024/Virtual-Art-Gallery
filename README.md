@@ -8,7 +8,7 @@ Virtual Art Gallery a space to explore art in 3D Virtual immersive environment U
 - [Tools & Technologies](#Tools&Technologies)
 - [Features](#Features)
 - [Implementation Details](#ImplementationDetails)
-- [Screenshots/Workflow](#ScreenshotsandWorkflow)
+- [Screenshots and Workflow](#ScreenshotsandWorkflow)
 - [Challenges & Learnings](#Challenges&Learnings)
 - [Conclusion](#Conclusion)
 
