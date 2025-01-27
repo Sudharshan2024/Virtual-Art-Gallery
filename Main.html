@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Virtual Art Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="gallery-container">
+    <div class="room">
+      <!-- Back Wall -->
+      <div class="wall wall-back">
+        <div class="art-piece" style="left: 350px; top: 100px;" data-title="Orange Red and Green Abstract Painting" data-description="by Steve Johnson.">
+          <img src="images/art1.jpg" alt="Sunset">
+        </div>
+      </div>
+      <!-- Left Wall -->
+      <div class="wall wall-left">
+        <div class="art-piece" style="top: 100px; left: 300px;" data-title="Multicolored Abstract Artwork" data-description="by Alexander Grey.">
+          <img src="images/art2.jpg" alt="Forest">
+        </div>
+      </div>
+      <!-- Right Wall -->
+      <div class="wall wall-right">
+        <div class="art-piece" style="top: 100px; left: 350px;" data-title="Pink, Black, and Yellow Abstract Painting" data-description="by Diana.">
+          <img src="images/art3.jpg" alt="Ocean">
+        </div>
+      </div>
+      <!-- Front Wall -->
+      <div class="wall wall-front">
+        <div class="art-piece" style="left: 350px; top: 100px;" data-title="Photo of Pink and Blue Abstract Artwork" data-description="by Dan Gold.">
+          <img src="images/art4.jpg" alt="Mountains">
+        </div>
+      </div>
+      <!-- Floor -->
+      <div class="floor"></div>
+      <!-- Ceiling -->
+      <div class="ceiling"></div>
+    </div>
+  </div>
+
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">X</span>
+      <img id="modal-img" src="" alt="Art">
+      <h2 id="modal-title"></h2>
+      <p id="modal-description"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
